@@ -1,6 +1,6 @@
 
 > This repository is now part of <a href="https://github.com/nullhack/python-project-template"><strong>python-project-template</strong></a> in the `example` branch. 
-> Please check out the source repository if you want to see an living example of the output of the template.
+> Please check out the source repository if you want to see a living example of the output of the template.
 
 ---
 
